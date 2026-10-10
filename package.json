@@ -1,0 +1,8 @@
+{
+  "name": "sl-limited-course-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SL Limited graphic design course website with backend",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
